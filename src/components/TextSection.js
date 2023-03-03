@@ -1,6 +1,6 @@
 export default function TextSection() {
   return (
-    <div>
+    <div className="text-section-container">
       <div>
         <h3>About</h3>
         <p className="para">
